@@ -3,11 +3,7 @@
 <title>Hello, Welcome to my World!</title>
 </head>
 <body>
-<<<<<<< HEAD
-	<h1>Hello, 1 Welcome to my World!</h1>
-=======
-	<h1>Hello, 2 Ram Welcome to my World!</h1>
->>>>>>> 2 push
+	<h1>Hello, Welcome to my World!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
