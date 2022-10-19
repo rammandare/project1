@@ -4,9 +4,9 @@
 </head>
 <body>
 <<<<<<< HEAD
-	<h1>Hello, Test Token</h1>
+	<h1>Hello, test-token1</h1>
 =======
-	<h1>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</h1>
+	<h1>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</h1>
 >>>>>>> 2 push
 	<p>
 		It is now
