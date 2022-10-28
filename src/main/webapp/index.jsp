@@ -4,7 +4,7 @@
 </head>
 <body>
 <<<<<<< HEAD
-	<h1>Hello, welcome to Veer Shivaji Biography</h1>
+	<h3>Hello, welcome to Veer Shivaji Biography</h3>
 =======
 	<h1>Shivaji, also spelled Śivaji, (born February 19, 1630, or April 1627, Shivner, Poona [now Pune], India—died April 3, 1680, Rajgarh), founder of the Maratha kingdom of India. The kingdom’s security was based on religious toleration and on the functional integration of the Brahmans, Marathas, and Prabhus.
 
@@ -13,7 +13,7 @@ Shivaji was descended from a line of prominent nobles. India at that time was un
 
 Close-up of terracotta Soldiers in trenches, Mausoleum of Emperor Qin Shi Huang, Xi'an, Shaanxi Province, China
 </h1>
->>>>>>> 2 push
+>>>>>>> 3 push
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
