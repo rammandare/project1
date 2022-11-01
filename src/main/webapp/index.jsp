@@ -11,7 +11,7 @@
 Early life and exploits
 Shivaji was descended from a line of prominent nobles. India at that time was under Muslim rule: the Mughals in the north and the Muslim sultans of Bijapur and Golconda in the south. All three ruled by right of conquest, with no pretense that they had any obligations toward those who they ruled. Shivaji, whose ancestral estates were situated in the Deccan, in the realm of the Bijapur sultans, found the Muslim oppression and religious persecution of the Hindus so intolerable that, by the time he was 16, he convinced himself that he was the divinely appointed instrument of the cause of Hindu freedom—a conviction that was to sustain him throughout his life.
 </h4>
->>>>>>> 3 push
+>>>>>>> 01.11.2022 push
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
